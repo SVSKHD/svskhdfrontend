@@ -1,13 +1,10 @@
 <template>
-
+    
 </template>
 
 <script>
 export default {
-    name:"Blog"
+    name:"Nav",
+    setup(){}
 }
 </script>
-
-<style>
-
-</style>
